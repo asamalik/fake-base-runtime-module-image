@@ -1,4 +1,8 @@
-# Generational Core fake image
+# Generational Core module image
+
+![three-layer-arch](/doc/three-layer-arch.png)
+
+This repository defines the **second layer**.
 
 This image has been created for developers building early versions of modules for the [Fedora Modularity project](https://fedoraproject.org/wiki/Modularity).
 

@@ -2,7 +2,7 @@
 
 ![three-layer-arch](/doc/three-layer-arch.png)
 
-This repository defines the **second layer**.
+This repository defines the **Layer 1** in the three-layer module container architecture.
 
 This image has been created for developers building early versions of modules for the [Fedora Modularity project](https://fedoraproject.org/wiki/Modularity).
 

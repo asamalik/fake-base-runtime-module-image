@@ -4,6 +4,11 @@
 
 This repository defines the **Layer 1** in the three-layer module container architecture.
 
+Other layer repositories:
+[**Layer 1**](https://github.com/asamalik/fake-gen-core-module-image) | 
+[**Layer 2**](https://github.com/asamalik/fake-proftpd-module-image) | 
+[**Layer 3**](https://github.com/container-images/proftpd)
+
 ## Description
 
 This image has been created for developers building early versions of modules for the [Fedora Modularity project](https://fedoraproject.org/wiki/Modularity).

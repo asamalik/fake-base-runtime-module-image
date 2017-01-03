@@ -1,4 +1,4 @@
-# Generational Core module image
+# Base Runtime module image
 
 ![three-layer-arch](/doc/three-layer-arch.png)
 
